@@ -1,0 +1,65 @@
+body
+{
+	background-color: #E6E8FA; /*kolor tla */
+}
+#logo
+{
+	position: relative;
+	padding-bottom: 2px;
+	float: left;
+	height:5%;
+	width:5%;
+}
+#logo > img 
+{
+	width:100%;
+}
+#menu
+{
+	position:absolute;
+	top:20%;
+	float:left;
+	padding-bottom: 20%;
+	heigtht: 1%;
+	width:100%;
+	
+}
+#menu >table
+{
+	
+	float:left;
+	padding-bottom: 20%;	
+}
+#box_1
+{
+	position:absolute;
+	top: 25%;
+	float:left;
+	background-color:red;
+}
+#box_2
+{
+	position:absolute;
+	top:0;
+	bottom:0;
+	left:0;
+	rigth:0;
+	margin:auto;
+	
+	
+	
+}
+#box_3
+{
+	position:absolute;
+	top: 25%;
+	right:0;
+	background-color:red;
+}
+#stopka
+{
+	background-color: #236B8E;
+	position:absolute;
+	bottom:0;
+	width:100%;
+}
